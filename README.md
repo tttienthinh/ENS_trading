@@ -14,3 +14,4 @@ We will show them the best pairs of the moment and ENS will allow them to pay us
 
 ## Why ENS ?  
 The field of crypto is booming, but reliable and easy-to-learn ways do not yet exist. Pourtatn ENS exists, and thanks to it we can secure the comission of our users every month.    
+![Demo](https://raw.githubusercontent.com/tttienthinh/ENS_trading/main/images/Demo.png)
