@@ -1,4 +1,5 @@
-# ENS_trading
+# ENS_trading  
+https://youtu.be/BSRVeMw5w8c  
 
 ## What is ENS ?  
 A Decentralised naming for wallets, websites, & more.  
