@@ -2,6 +2,7 @@
 
 ## What is ENS ?  
 A Decentralised naming for wallets, websites, & more.  
+![ENS](https://raw.githubusercontent.com/tttienthinh/ENS_trading/main/images/ENS.png)
 
 ### One Name For All of Your Addresses  
 No more copying and pasting long addresses. Use your ENS name to store all of your addresses and receive any cryptocurrency, token, or NFT.  
